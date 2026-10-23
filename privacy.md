@@ -1,6 +1,6 @@
 # Avanto — Privacy Policy
 
-*Last updated: 3 October 2026* · [Suomeksi](#tietosuojaseloste)
+*Last updated: 14 October 2026* · [Suomeksi](#tietosuojaseloste)
 
 Avanto is a logbook for ice swimming. It has no account of its own, no analytics, no
 advertising and no third-party tracking of any kind.
@@ -39,10 +39,14 @@ app makes no weather requests at all.
 Weather data comes from Apple Weather. Apple's handling of those requests is described
 in the data sources link shown in the app's Settings.
 
-## Export
+## Export and sharing
 
 You can export your whole log as CSV or JSON from Settings. Where that file goes is
 entirely your choice — the app only hands it to the iOS share sheet.
+
+The same goes for images of a swim, a season or a streak that you choose to share. The
+image is made on your phone and handed to the share sheet; nothing passes through us. A
+place name appears on a swim image only if you switch it on.
 
 ## Children
 
@@ -60,7 +64,7 @@ avanto.app.support@gmail.com
 
 # Tietosuojaseloste
 
-*Päivitetty 3.10.2026*
+*Päivitetty 14.10.2026*
 
 Avanto on avantouinnin päiväkirja. Siinä ei ole omaa käyttäjätiliä, analytiikkaa,
 mainoksia eikä minkäänlaista seurantaa.
@@ -99,10 +103,14 @@ sovellus ei tee sääkyselyitä lainkaan.
 Säätiedot tulevat Apple Weatherista. Applen käytännöt on kuvattu sovelluksen
 Asetuksista löytyvän säätietojen lähteet -linkin takana.
 
-## Vienti
+## Vienti ja jakaminen
 
 Voit viedä koko päiväkirjasi CSV- tai JSON-tiedostona Asetuksista. Minne tiedosto
 menee, on täysin sinun päätettävissäsi — sovellus antaa sen vain iOS:n jakovalikolle.
+
+Sama pätee kuviin uinnista, kaudesta tai putkesta, jotka päätät jakaa. Kuva tehdään
+puhelimessasi ja annetaan jakovalikolle; mikään ei kulje meidän kauttamme. Paikan nimi
+näkyy uintikuvassa vain, jos kytket sen päälle.
 
 ## Yhteystiedot
 
